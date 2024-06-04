@@ -13,8 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.golivwell.com
-  # baseUrl: /status.golivwell
+  # cname: status.golivwell.com
+  baseUrl: /status.golivwell
   logoUrl: https://github.com/integrated-wellness-inc.png
   name: Golivwell Status Monitor
   introTitle: "**Livwell** is the **All-in-one** wellness solution for wellness businesses"
