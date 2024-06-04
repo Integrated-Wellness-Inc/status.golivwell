@@ -8,15 +8,12 @@ sites:
     url: https://app.golivwell.com
   - name: golivwell.com
     url: https://golivwell.com
-  - name: beta-app.golivwell.com
-    url: https://beta-app.golivwell.com
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status.golivwell
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/integrated-wellness-inc.png
   name: Golivwell Status Monitor
   introTitle: "**Livwell** is the **All-in-one** wellness solution for wellness businesses"
   introMessage: This is the status.golivwell.com site, where you can see the status of all the Livwell websites, and outages are automatically reported. Uses [Upptime](https://github.com/upptime/upptime)
