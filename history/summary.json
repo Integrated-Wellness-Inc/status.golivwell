@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 475,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "time": 332,
+    "timeDay": 213,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/golivwell.com.ico",
     "slug": "marketing-site",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 1211,
-    "timeDay": 3297,
-    "timeWeek": 1211,
-    "timeMonth": 1211,
-    "timeYear": 1211,
-    "dailyMinutesDown": {
-      "2024-06-06": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1087,
+    "timeDay": 3136,
+    "timeWeek": 1087,
+    "timeMonth": 1087,
+    "timeYear": 1087,
+    "dailyMinutesDown": {}
   },
   {
     "name": "livwell api",
@@ -48,13 +46,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 255,
-    "timeDay": 356,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "time": 227,
+    "timeDay": 115,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-06-06": 1193,
+      "2024-06-07": 8,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 246
     }
