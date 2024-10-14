@@ -4,10 +4,10 @@
     "url": "https://app.golivwell.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.golivwell.com.ico",
     "slug": "admin-dashboard-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "99.07%",
     "time": 589,
@@ -16,7 +16,7 @@
     "timeMonth": 1153,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-10-14": 54,
+      "2024-10-14": 55,
       "2024-09-20": 926,
       "2024-09-07": 785
     }
@@ -28,9 +28,9 @@
     "slug": "marketing-site",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "97.78%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "97.46%",
     "time": 711,
     "timeDay": 4216,
@@ -38,7 +38,7 @@
     "timeMonth": 1392,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2024-10-14": 44,
+      "2024-10-14": 31,
       "2024-09-20": 926,
       "2024-09-09": 1005,
       "2024-09-08": 1440,
@@ -62,7 +62,7 @@
     "timeMonth": 361,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-10-14": 811,
+      "2024-10-14": 820,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
