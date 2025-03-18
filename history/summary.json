@@ -35,8 +35,8 @@
     "slug": "marketing-site",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.54%",
     "time": 2174,
@@ -45,7 +45,6 @@
     "timeMonth": 1914,
     "timeYear": 2174,
     "dailyMinutesDown": {
-      "2025-03-17": 4,
       "2025-03-06": 22,
       "2025-02-25": 33,
       "2025-02-22": 17,
@@ -92,7 +91,8 @@
     "timeMonth": 325,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-03-17": 1434,
+      "2025-03-18": 9,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
