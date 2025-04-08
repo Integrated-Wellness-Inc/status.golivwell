@@ -33,7 +33,7 @@
     "url": "https://golivwell.com",
     "icon": "https://icons.duckduckgo.com/ip3/golivwell.com.ico",
     "slug": "marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
     "uptimeDay": "94.46%",
     "uptimeWeek": "98.99%",
@@ -45,6 +45,7 @@
     "timeMonth": 3735,
     "timeYear": 2395,
     "dailyMinutesDown": {
+      "2025-04-08": 0,
       "2025-04-07": 80,
       "2025-04-06": 22,
       "2025-03-21": 69,
@@ -95,7 +96,7 @@
     "timeMonth": 289,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-04-08": 9,
+      "2025-04-08": 34,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
