@@ -4,8 +4,8 @@
     "url": "https://app.golivwell.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.golivwell.com.ico",
     "slug": "admin-dashboard-site",
-    "status": "up",
-    "uptime": "98.78%",
+    "status": "down",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.05%",
     "uptimeMonth": "94.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 938,
     "timeYear": 733,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-22": 126,
       "2025-08-20": 70,
       "2025-08-13": 25,
@@ -133,7 +134,7 @@
     "timeMonth": 279,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-08-26": 10,
+      "2025-08-26": 524,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
