@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.golivwell.com.ico",
     "slug": "admin-dashboard-site",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 679,
-    "timeDay": 749,
-    "timeWeek": 792,
+    "timeDay": 739,
+    "timeWeek": 802,
     "timeMonth": 827,
     "timeYear": 756,
     "dailyMinutesDown": {
@@ -54,10 +54,10 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.49%",
-    "time": 2594,
-    "timeDay": 360,
-    "timeWeek": 367,
-    "timeMonth": 367,
+    "time": 2592,
+    "timeDay": 279,
+    "timeWeek": 381,
+    "timeMonth": 365,
     "timeYear": 2874,
     "dailyMinutesDown": {
       "2025-09-26": 23,
@@ -124,12 +124,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 282,
-    "timeDay": 342,
-    "timeWeek": 308,
-    "timeMonth": 276,
-    "timeYear": 289,
+    "timeDay": 181,
+    "timeWeek": 310,
+    "timeMonth": 273,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-09-29": 10,
+      "2025-09-30": 10,
+      "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -492,8 +493,7 @@
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
-      "2024-10-01": 1440,
-      "2024-09-30": 1440
+      "2024-10-01": 1440
     }
   }
 ]
