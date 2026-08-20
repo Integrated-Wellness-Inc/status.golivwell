@@ -4,13 +4,13 @@
     "url": "https://app.golivwell.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.golivwell.com.ico",
     "slug": "admin-dashboard-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.62%",
-    "time": 1682,
+    "time": 1683,
     "timeDay": 1051,
     "timeWeek": 1091,
     "timeMonth": 1255,
@@ -37,7 +37,8 @@
       "2026-03-19": 110,
       "2026-03-30": 23,
       "2026-03-31": 27,
-      "2026-04-16": 532
+      "2026-04-16": 532,
+      "2026-08-20": 5
     }
   },
   {
@@ -86,7 +87,7 @@
     "timeMonth": 578,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2026-08-20": 8,
+      "2026-08-20": 622,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
